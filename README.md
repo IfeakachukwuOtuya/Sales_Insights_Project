@@ -1,4 +1,4 @@
- **🛍️ Sales Insights Project**
+# 🛍️ Sales Insights Project
 This is a beginner-friendly Python project that shows how to analyze sales data using Streamlit. It includes simple statistics, charts, and a nice user interface to understand product sales.
 
 # 📌 What This App Does
